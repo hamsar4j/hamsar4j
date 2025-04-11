@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-📫 More about me at [hamsarajs.vercel.app](https://hamsarajs.vercel.app/)
+📫 More about me at [hamsaraj.dev](https://hamsaraj.dev/)
